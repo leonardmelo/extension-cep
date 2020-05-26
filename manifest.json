@@ -1,0 +1,10 @@
+{
+    "manifest_version" : 2,
+    "version" : "0.0.1",
+    "name" : "viaCep",
+    "description": "API para buscar CEP",
+    "author": "Programador de Respeito",
+    "browser_action": {
+        "default_popup": "index.html"
+    }
+}
